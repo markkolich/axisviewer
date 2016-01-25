@@ -23,6 +23,12 @@ cd dist
 java -jar axisviewer-0.1-runnable.jar --url "http://10.0.1.6/axis-cgi/jpg/image.cgi?resolution=640x480"
 ```
 
+## Demo
+
+What it looks like:
+
+<img src="https://raw.githubusercontent.com/markkolich/axisviewer/master/static/axis-viewer-demo.png">
+
 ## Licensing
 
 Copyright (c) 2016 <a href="http://mark.koli.ch">Mark S. Kolich</a>
